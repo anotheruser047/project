@@ -1,4 +1,5 @@
 function foo(a, b){
     console.log(a + b)
 }
-foo(2 ,2)
+const result = foo(2 ,2)
+console.log(result)
